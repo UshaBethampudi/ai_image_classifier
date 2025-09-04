@@ -1,0 +1,8 @@
+# Generate a requirements.txt containing torch, torchvision, gradio, pillow, opencv-python, numpy, tqdm with recent stable versions. Keep entries one-per-line. No extra text.
+torch
+torchvision
+matplotlib
+pillow
+gradio
+opencv-python
+numpy

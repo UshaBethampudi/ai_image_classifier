@@ -1,0 +1,24 @@
+{
+  "apple": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f4/Honeycrisp.jpg"
+  ],
+  "banana": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+  ],
+  "cat": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+  ],
+  "dog": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+  ],
+  "plastic": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Plastic_bottles.jpg"
+  ],
+  "glass": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d9/Glass_bottles.jpg"
+  ],
+  "paper": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f4/Paper_sheet.jpg"
+  ]
+}
